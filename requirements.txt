@@ -1,8 +1,8 @@
 google_api_python_client==2.65.0
-pandas<1.4.3
+pandas>1.4.3
 Pillow==9.3.0
 xlrd<2.0
 plotly==5.10.0
-protobuf==3.20.1
+protobuf>=3.12
 streamlit==1.13.0
 streamlit_option_menu==0.3.2
